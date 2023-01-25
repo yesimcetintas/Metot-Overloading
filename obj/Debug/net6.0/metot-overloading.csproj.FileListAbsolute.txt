@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/bin/Debug/net6.0/metot-overloading
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/bin/Debug/net6.0/metot-overloading.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/bin/Debug/net6.0/metot-overloading.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/bin/Debug/net6.0/metot-overloading.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/bin/Debug/net6.0/metot-overloading.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/obj/Debug/net6.0/metot-overloading.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/obj/Debug/net6.0/metot-overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/obj/Debug/net6.0/metot-overloading.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/obj/Debug/net6.0/metot-overloading.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/obj/Debug/net6.0/metot-overloading.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/obj/Debug/net6.0/metot-overloading.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/obj/Debug/net6.0/refint/metot-overloading.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/obj/Debug/net6.0/metot-overloading.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/obj/Debug/net6.0/metot-overloading.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/metot-overloading/obj/Debug/net6.0/ref/metot-overloading.dll
